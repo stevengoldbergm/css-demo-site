@@ -203,7 +203,7 @@ li label {
     font-weight: bolder;
     text-align: left;
     align-self: left;
-    color: var(--sage);
+    color: var(--raisin-black);
 }
 
 input[type=text] {
